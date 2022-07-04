@@ -1,4 +1,4 @@
-# JavaScript-ES6-essencial-Dio-Tipos-e-variaveis
+# 👩‍💻JavaScript-ES6-essencial-Dio-Tipos-e-variaveis
 ****************************************************************************
 
 
@@ -17,6 +17,7 @@ Esse projeto são os estudo do curso da Dio de Javascript:
 - do while
 - for
 - for in off
+- laço de repetição 
 
 *****************************************************************************
 Linguagem
