@@ -23,3 +23,5 @@ Esse projeto são os estudo do curso da Dio de Javascript:
 Linguagem
 
 JAVASCRIPT
+†*******†**********†****************####******
+Caso precise de alguma coisa pode contar comigo.
